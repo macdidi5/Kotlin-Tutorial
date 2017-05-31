@@ -9,16 +9,16 @@ Kotlin是一個比較新的JVM程式語言，它是在2011年7月由JetBrains發
 1. [Kotlin Tutorial（1）Hello! Kotlin!](http://www.codedata.com.tw/kotlin/kt01/)
 2. Kotlin Tutorial（2）十分鐘認識Kotlin
 3. Kotlin Tutorial（3）Kotlin程式設計語言基礎
-4. 變數與型態入門
-5. 變數與型態進階
-6. 決策與判斷
-7. 迴圈與範圍
-8. 宣告與呼叫函式
-9. 陣列
-10. 認識物件導向
-11. 類別與成員
-12. 封裝
-13. 繼承
-14. 多型
-15. 抽象類別與介面
-16. Kotlin函式
+4. [Kotlin Tutorial（4）變數與型態入門
+5. [Kotlin Tutorial（5）變數與型態進階
+6. [Kotlin Tutorial（6）決策與判斷
+7. [Kotlin Tutorial（7）迴圈與範圍
+8. [Kotlin Tutorial（8）宣告與呼叫函式
+9. [Kotlin Tutorial（9）陣列
+10. [Kotlin Tutorial（10）認識物件導向
+11. [Kotlin Tutorial（11）類別與成員
+12. [Kotlin Tutorial（12）封裝
+13. [Kotlin Tutorial（13）繼承
+14. [Kotlin Tutorial（14）多型
+15. [Kotlin Tutorial（15）抽象類別與介面
+16. [Kotlin Tutorial（16）Kotlin函式
