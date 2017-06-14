@@ -2,7 +2,7 @@ package net.macdidi5.kotlin.demo.classes
 
 // 宣告Employee類別，沒有使用open，表示這個類別不可以被繼承
 // (name: String)是一個字串參數的主要建構式（primary constructor）
-// 使用Person(name)呼教父類別的建構式
+// 使用Person(name)呼叫父類別的建構式
 class Employee(name: String) : Person(name) {
 
     // 一個可以改變值的屬性（property）
