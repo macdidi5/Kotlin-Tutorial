@@ -1,7 +1,3 @@
-/* net.macdidi5.kotlin.tutorial.ch03.HelloPrint.kt */
-
-package net.macdidi5.kotlin.tutorial.ch03
-
 fun main(args: Array<String>) {
     // 顯示字串
     println("String message")

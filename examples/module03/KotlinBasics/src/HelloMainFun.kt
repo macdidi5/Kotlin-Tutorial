@@ -1,10 +1,3 @@
-/* net.macdidi5.kotlin.tutorial.ch03.HelloMainFun.kt */
-
-// 套件宣告，把這個程式寫的內容放在這個套件
-// 雖然原始程式碼不用放在與套件對應的目錄
-// 不過建議你還是這麼作，專案裡面的程式碼會比較容易管理
-package net.macdidi5.kotlin.tutorial.ch03
-
 // Kotlin程式的進入點，只有「args」可以改變其它自己取的名稱，其它都是固定的
 // IntelliJ IDEA偵測到Kotlin程式的進入點，會在左側顯示Kotlin圖示
 // main函式的範為從「{」開始，到「}」結束，通常稱為區塊（block）
