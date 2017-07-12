@@ -12,5 +12,5 @@ Kotlin是一個比較新的JVM程式語言，它是在2011年7月由JetBrains發
 4. [Kotlin Tutorial（4）變數與型態入門](http://www.codedata.com.tw/kotlin/kt04/)
 5. [Kotlin Tutorial（5）決策與判斷](http://www.codedata.com.tw/kotlin/kt05/)
 6. [Kotlin Tutorial（6）迴圈與範圍](http://www.codedata.com.tw/kotlin/kt06/)
-7. Kotlin Tutorial（7）陣列
+7. [Kotlin Tutorial（7）陣列](http://www.codedata.com.tw/kotlin/kt07/)
 
