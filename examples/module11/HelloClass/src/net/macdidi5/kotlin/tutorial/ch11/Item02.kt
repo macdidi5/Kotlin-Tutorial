@@ -9,6 +9,12 @@ class Item02 (val id: Long = 0,
               var title: String = "",
               var content: String = "") {
 
+    // 初始化，可以在這裡檢查與處理屬性值
+    init {
+        title = if (title.isEmpty()) "Title required" else title
+        content = if (content.isEmpty()) "Content required" else content
+    }
+
     // 宣告傳回資訊的函式
     fun getDetails() = "Item02(id=$id, title=$title, content=$content)"
 }
@@ -27,6 +33,10 @@ fun main(args: Array<String>) {
     val item0203 = Item02(203, "Hi", "Hello")
     println(item0203.getDetails())
     // 顯示： Item02(id=203, title=Hi, content=Hello)
+
+    val item0204 = Item02(204, "", "")
+    println(item0204.getDetails())
+    // 顯示： Item02(id=204, title=Title required, content=Content required)
 
     println()
 
@@ -61,4 +71,5 @@ fun main(args: Array<String>) {
     // Item02(id=2001, title=Hi, content=Hello)
     // Item02(id=2002, title=Hi, content=Hello)
     // Item02(id=2003, title=Hi, content=Hello)
+
 }
