@@ -24,3 +24,4 @@ Kotlin是一個比較新的JVM程式語言，它是在2011年7月由JetBrains發
 16. [Kotlin Tutorial（16）介面與實作（下）](http://www.codedata.com.tw/kotlin/kt16/)
 17. [Kotlin Tutorial（17）存取修飾子與資料類別](http://www.codedata.com.tw/kotlin/kt17/)
 18. [Kotlin Tutorial（18）泛型的設計與應用](http://www.codedata.com.tw/kotlin/kt18/)
+19. [Kotlin Tutorial（19）集合與泛型](http://www.codedata.com.tw/kotlin/kt19/)
