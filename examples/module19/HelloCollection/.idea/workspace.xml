@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c64b2c9-8729-412f-a0a6-fae844cdb4a9" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HelloMap01.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloMap01.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloMap02.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloMap02.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloList02.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloList02.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-191">
+              <caret column="48" selection-start-column="48" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloList03.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloList03.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloMap03.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloMap03.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloMap04.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloMap04.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>GET</find>
+      <find>GET(</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/HelloMap.kt" />
+        <option value="$PROJECT_DIR$/src/Item.kt" />
+        <option value="$PROJECT_DIR$/src/StringContainer.kt" />
+        <option value="$PROJECT_DIR$/src/ContainerDemo02.kt" />
+        <option value="$PROJECT_DIR$/src/Container.kt" />
+        <option value="$PROJECT_DIR$/src/ContainerDemo01.kt" />
+        <option value="$PROJECT_DIR$/src/GenericFunction.kt" />
+        <option value="$PROJECT_DIR$/src/ItemContainer.kt" />
+        <option value="$PROJECT_DIR$/src/HelloSortedSet.kt" />
+        <option value="$PROJECT_DIR$/src/HelloSet.kt" />
+        <option value="$PROJECT_DIR$/src/HelloDeque.kt" />
+        <option value="$PROJECT_DIR$/src/Item01.kt" />
+        <option value="$PROJECT_DIR$/src/HelloList01.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/HelloDeque.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/HelloSet.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/HelloMap.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/HelloDeque01.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/HelloMap01.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/HelloSet01.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/ItemSortName.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/ItemSortTitle.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/ItemSortId.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/ItemContainer.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/StringContainer.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/Container.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/ContainerDemo01.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/GenericFunction.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/GenericFunction02.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/GenericFunction01.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/ContainerDemo02.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/HelloList01.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/Item.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/ItemSortTitle.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/ItemSortId.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloDeque01.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/Item.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloList01.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloSet01.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloList02.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloSet02.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloSet03.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloSet04.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloMap02.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloMap03.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloMap04.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloMap01.kt" />
+        <option value="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloList03.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HelloCollection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloCollection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloCollection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloCollection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloCollection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloCollection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch19" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="net.macdidi5.kotlin.tutorial.ch18" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19" />
+      <recent name="$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Kotlin.net.macdidi5.kotlin.tutorial.ch19.HelloMap01Kt">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="net.macdidi5.kotlin.tutorial.ch19.HelloDeque01Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HelloCollection" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="net.macdidi5.kotlin.tutorial.ch19.HelloDeque01Kt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="net.macdidi5.kotlin.tutorial.ch19.HelloList01Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HelloCollection" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="net.macdidi5.kotlin.tutorial.ch19.HelloList01Kt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="net.macdidi5.kotlin.tutorial.ch19.HelloMap01Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HelloCollection" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="net.macdidi5.kotlin.tutorial.ch19.HelloMap01Kt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="net.macdidi5.kotlin.tutorial.ch19.HelloSet01Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HelloCollection" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="net.macdidi5.kotlin.tutorial.ch19.HelloSet01Kt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="net.macdidi5.kotlin.tutorial.ch19.HelloSet02Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HelloCollection" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="net.macdidi5.kotlin.tutorial.ch19.HelloSet02Kt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.net.macdidi5.kotlin.tutorial.ch19.HelloSet01Kt" />
+      <item itemvalue="Kotlin.net.macdidi5.kotlin.tutorial.ch19.HelloDeque01Kt" />
+      <item itemvalue="Kotlin.net.macdidi5.kotlin.tutorial.ch19.HelloList01Kt" />
+      <item itemvalue="Kotlin.net.macdidi5.kotlin.tutorial.ch19.HelloMap01Kt" />
+      <item itemvalue="Kotlin.net.macdidi5.kotlin.tutorial.ch19.HelloSet02Kt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.net.macdidi5.kotlin.tutorial.ch19.HelloMap01Kt" />
+        <item itemvalue="Kotlin.net.macdidi5.kotlin.tutorial.ch19.HelloList01Kt" />
+        <item itemvalue="Kotlin.net.macdidi5.kotlin.tutorial.ch19.HelloSet02Kt" />
+        <item itemvalue="Kotlin.net.macdidi5.kotlin.tutorial.ch19.HelloDeque01Kt" />
+        <item itemvalue="Kotlin.net.macdidi5.kotlin.tutorial.ch19.HelloSet01Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c64b2c9-8729-412f-a0a6-fae844cdb4a9" name="Default" comment="" />
+      <created>1513764437897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513764437897</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="735" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2688629" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18046875" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32880846" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32730016" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloMap01.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/Item.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloSet01.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloList01.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="42" lean-forward="true" selection-start-line="39" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloSet01.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloMap01.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Item01.kt" />
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/Item.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloList01.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloSet01.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloMap01.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloList01.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloSet01.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Library.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1002">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HelloSortedSet.kt" />
+    <entry file="file://$PROJECT_DIR$/src/Item01.kt" />
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="1104" column="42" selection-start-line="1104" selection-start-column="42" selection-end-line="1104" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/StringContainer.kt" />
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/ItemContainer.kt" />
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/ContainerDemo01.kt" />
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/GenericFunction02.kt" />
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/ContainerDemo02.kt" />
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/GenericFunction01.kt" />
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch18/Container.kt" />
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/collections/Sets.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="87" column="55" selection-start-line="87" selection-start-column="48" selection-end-line="87" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/collections/Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="103" column="61" selection-start-line="103" selection-start-column="50" selection-end-line="103" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="192" column="36" lean-forward="true" selection-start-line="192" selection-start-column="36" selection-end-line="192" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="143" column="38" lean-forward="true" selection-start-line="143" selection-start-column="38" selection-end-line="143" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="85" column="40" selection-start-line="85" selection-start-column="40" selection-end-line="85" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="90" column="16" lean-forward="true" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/ItemSortTitle.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/collections/Maps.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/Item.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/ItemSortId.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloSet01.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloSet02.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloSet03.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloSet04.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="40" column="28" selection-end-line="47" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloDeque01.kt" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="1180" column="24" lean-forward="true" selection-start-line="1180" selection-start-column="24" selection-end-line="1180" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="256" column="3" lean-forward="true" selection-start-line="256" selection-start-column="3" selection-end-line="256" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloList01.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloMap04.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloMap03.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="1003" column="11" selection-start-line="1003" selection-start-column="11" selection-end-line="1003" selection-end-column="30" />
+          <folding>
+            <element signature="e#24298#24299#0" expanded="true" />
+            <element signature="e#24363#24364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloMap01.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloMap02.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloList02.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191">
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/macdidi5/kotlin/tutorial/ch19/HelloList03.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
